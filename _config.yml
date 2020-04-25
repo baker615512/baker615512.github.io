@@ -1,11 +1,11 @@
 # Site settings
 author: Jonathan Baker
-title: 
+title: Thanks for Asking
 header-img: img/home-bg.png
 email: baker615512@gmail.com
 copyright_name: Jonathan Baker
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I Chose Software Engineering 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  baker615512
