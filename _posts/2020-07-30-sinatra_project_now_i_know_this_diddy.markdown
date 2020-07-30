@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project: Now I Know This Diddy"
-date:       2020-07-30 18:25:43 +0000
+date:       2020-07-30 14:25:44 -0400
 permalink:  sinatra_project_now_i_know_this_diddy
 ---
 
