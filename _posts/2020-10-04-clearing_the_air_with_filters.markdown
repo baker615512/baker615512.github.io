@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Clearing the Air with Filters"
-date:       2020-10-04 19:53:27 +0000
+date:       2020-10-04 15:53:28 -0400
 permalink:  clearing_the_air_with_filters
 ---
 
 
 ## What's That Smell?
 
-One of the coolest features I discovered in Rails is the Action Controller Filter.  Almost every app and website require you to be logged in to navigate the site.  When I created an app for the Sinatra project, I allowed anyone to view an index page.  However, if you wanted to view or modify anything else, I required the user to be logged in.  I created a helped method in my Application Controller that would redirect the user to the home page where they could log in if they were not already. 
+One of the coolest features I discovered in Rails is the [Action Controller Filter](http://https://guides.rubyonrails.org/action_controller_overview.html#filters).  Almost every app and website require you to be logged in to navigate the site.  When I created an app for the Sinatra project, I allowed anyone to view an index page.  However, if you wanted to view or modify anything else, I required the user to be logged in.  I created a helped method in my Application Controller that would redirect the user to the home page where they could log in if they were not already. 
 
 ```
 def redirect_if_not_logged_in
