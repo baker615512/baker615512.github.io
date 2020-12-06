@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Common Mistakes in JavaScript"
-date:       2020-12-06 21:06:50 +0000
+date:       2020-12-06 16:06:51 -0500
 permalink:  my_common_mistakes_in_javascript
 ---
 
